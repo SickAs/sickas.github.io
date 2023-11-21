@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.sickas.aurora.staging",
+      "sha256_cert_fingerprints": [
+        "8D:5E:DB:B6:1B:BF:2A:FD:0E:BC:C5:74:6E:4C:B6:48:04:7F:F7:F7:F1:05:9D:87:48:F7:9C:C6:69:17:29:C8",
+        "D8:8D:81:C0:FC:93:E4:C2:81:C4:CC:0F:A1:EA:DA:26:CA:A1:60:A2:0D:AC:8F:AA:71:DF:08:51:94:A1:8E:FA"
+      ]
+    }
+  }
+]
